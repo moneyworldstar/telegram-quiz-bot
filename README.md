@@ -42,6 +42,6 @@ used that for my school work
 ## thanks to:
 svetlana vladimirovna for approving my work
 
-[erruqie](t.me/cl0wnl3ss), [attorelle](github.com/attorelle), [damncxred](t.me/notcxbio) & marsochach(t.me/marsochat)
+[erruqie](https://t.me/cl0wnl3ss), [attorelle](https://github.com/attorelle), [damncxred](https://t.me/notcxbio) & [marsochach](https://t.me/marsochat)
 
 
