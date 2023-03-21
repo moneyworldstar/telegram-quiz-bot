@@ -1,6 +1,7 @@
 import telebot
 from pymongo import MongoClient
 ## ВАНЯ ГЕЙ ВАНЯ ГЕЙ 
+## когда бог открыл этот код, он лично мою душу продал блять дьяволу ;_;
 
 bot = telebot.TeleBot("THERE SHOULD BE YOUR TOKEN FROM BOTFATHER")
 
